@@ -1,0 +1,7 @@
+aiogram==3.3.0
+aiocryptopay
+sqlalchemy==2.0.23
+aiosqlite==0.19.0
+aiohttp==3.9.1
+telethon
+FunPayAPI
