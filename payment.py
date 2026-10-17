@@ -12,7 +12,7 @@ class CBPayment():
     async def init(self):
         await self.db.init()
         self.crypto = AioCryptoPay(
-        token='524099:AAi8XHUvApS0CytXnr3E0ELjXMe54U1Lrrx',
+        token='',
         network=Networks.MAIN_NET
         )
 
