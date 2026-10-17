@@ -1,7 +1,7 @@
 {
   "_комментарий": "Заполни поля ниже. Всё, что начинается с _ — просто подсказки, можно не трогать.",
 
-  "golden_key": "sura1qeb4e1qyo8f7w6kd4cnr3newkmm",
+  "golden_key": "",
   "_golden_key_подсказка": "golden_key — это кука с сайта funpay.com. Зайди на funpay.com под своим аккаунтом продавца, открой DevTools (F12) -> Application/Storage -> Cookies -> funpay.com -> скопируй значение куки golden_key.",
 
   "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
