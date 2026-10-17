@@ -25,7 +25,7 @@ from functions.smmway_api import SMMWayAPI
 from functions.account_manager import AccountManager
 from functions.funpay_manager import FunPayManager
 
-API_TOKEN = '8502383230:AAH1s0b2CKdSCfWccyv0VQ_SpsF4BJeZ96s'
+API_TOKEN = ''
 
 # ======================== DEBUG MODE =========================
 DEBUG = False  # При True заказы создаются только в БД, без отправки на smmway.ru
